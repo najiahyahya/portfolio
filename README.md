@@ -1,5 +1,7 @@
 # 🌟 Vue Task - Portfolio
 
+🚀 **Live Demo:** [Click here to view the app](https://portfolio-git-main-najiahyahyas-projects.vercel.app/)
+
 This is a Vue 3 project built with Vite. It serves as my personal portfolio featuring sections like Contact, Projects, and Credentials — all neatly organized with scoped components and clean design.
 
 ---
